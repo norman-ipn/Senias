@@ -9,5 +9,4 @@ Crear un juego se señas (tipo Kinect Dance) pero en vez de utlizar todo el cuer
 
 ##DESARROLLO
 
--Aprender a programar OpenCV para el reconocimiento en el movimiento de la mano a través de una cámara
-
+- Utilizo el programa OpenCV versión 2.4.3(última) en el S.O. Ubuntu; para el reconocimiento de señas a través de una cámara web
