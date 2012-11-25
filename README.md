@@ -1,11 +1,11 @@
-Senias
+Señas
 ======
 
-## Juego de Senias
+## Juego de Señas
 
-#OBJETIVO
+##OBJETIVO
 
-Crear un juego se senias (tipo Kinect Dance) pero en vez de utlizar todo el cuerpo, sería simplemente con el movimiento de manos. Que en la pantalla aparezcan diferentes posiciones de manos y el jugador tenga que imitar estas formas para ir sumando puntos.
+Crear un juego se señas (tipo Kinect Dance) pero en vez de utlizar todo el cuerpo, sería simplemente con el movimiento de manos. Que en la pantalla aparezcan diferentes posiciones de manos y el jugador tenga que imitar estas formas para ir sumando puntos.
 
 ##DESARROLLO
 
